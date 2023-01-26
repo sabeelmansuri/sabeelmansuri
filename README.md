@@ -9,7 +9,7 @@
 
 - 🪶 I’m the first author for [Intro. to Python & O.O.P.](https://stepik.org/course/56730/promo)
 
-- 👨‍💻 More @ [sabeelmansuri.com](sabeelmansuri.com)
+- 👨‍💻 More @ [sabeelmansuri.com](https://sabeelmansuri.com/)
 
 - 💬 Ask me about **distributed systems, bioinformatics, & ed-tech**
 
