@@ -11,8 +11,6 @@
 
 - 👨‍💻 More @ [sabeelmansuri.com](https://sabeelmansuri.com/)
 
-- 💬 Ask me about **distributed systems, bioinformatics, & ed-tech**
-
 
 
 <h3 align="left">Connect with me:</h3>
