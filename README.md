@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Sabeel!</h1>
+<h1 align="center">Hi, I'm Sabeel!</h1>
 <h3 align="center">Engineering Manager, Health AI @ AWS</h3>
 
 <img align="right" alt="Coding" width="200" src="https://i.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.webp"/>
